@@ -7,6 +7,8 @@ Littlebox aims to provide simple seamless sharing of your files within Intranet/
 
 ## Screenshots
 
+![Littlebox Android App Screenshot](http://i.imgur.com/XDY8TiW.png "Littlebox Android App Screenshot")
+
 ![Littlebox Screenshot](http://i.imgur.com/ExQPBVs.png "Littlebox Screenshot")
 
 ![Littlebox File Uploads Screenshot](http://i.imgur.com/JhwUXsq.png "Littlebox File Uploads Screenshot")
